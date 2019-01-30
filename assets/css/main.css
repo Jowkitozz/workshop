@@ -133,14 +133,14 @@ ul li, ol li {
 }
 
 .btn-common {
-  background-color: #00b4d9;
+  background-color: #ffd300;
   position: relative;
   z-index: 1;
 }
 
 .btn-common:hover {
   color: #fff;
-  background-color: #21cff3;
+  background-color: #ffd300;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
@@ -148,8 +148,8 @@ ul li, ol li {
 }
 
 .btn-danger:hover {
-  background-color: #f55262;
-  border-color: #f55262;
+  background-color: #ffd300;
+  border-color: #020203;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
@@ -163,8 +163,8 @@ ul li, ol li {
 }
 
 .btn-border:hover {
-  border: 1px solid #fff;
-  color: #fff;
+  border: 1px solid #020203;
+  color: #ffd300;
   background-color: rgba(255, 255, 255, 0.2);
 }
 
@@ -184,7 +184,7 @@ button:focus {
 }
 
 .icon-close, .icon-check {
-  color: #00b4d9;
+  color: #ffd300;
 }
 
 .social-icon li {
@@ -192,7 +192,7 @@ button:focus {
 }
 
 .social-icon li a {
-  color: #000;
+  color: #020302;
   background: #fff;
   width: 35px;
   height: 35px;
