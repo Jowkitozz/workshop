@@ -290,7 +290,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 #about .img-thumb img {
   border: 8px solid #fff;
-  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
 
 .profile-wrapper {
@@ -484,7 +483,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 65%;
+  width: 60px;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -683,7 +682,7 @@ a.back-to-top:hover, a.back-to-top:focus {
     top: 0;
   }
   .navbar-brand img {
-    width: 75%;
+    width: 15%;
   }
   #mobile-menu {
     display: none;
@@ -1127,4 +1126,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 #copyright p a:hover {
   color: #00b4d9;
+}
+.navbar-brand img{
+  width: 60px;
 }
