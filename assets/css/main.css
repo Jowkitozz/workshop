@@ -138,7 +138,7 @@ ul li, ol li {
 .btn:active {
   box-shadow: none;
   outline: none;
-  color: #fff;
+  color: #fff; 
 }
 
 .btn-common {
